@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: rgb(244, 245, 250); 
+    
+  }
+body h1{
+    border: solid rgb(255, 255, 255);
+    font-family:cursive;
+    border-radius: 10px;
+    background-color: rgb(125, 241, 10);
+}
+  
+  .choice-button {
+    height: 123px;
+    width: 123px;
+    border: solid;
+    margin: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  #resetbutton{
+    width: 20%;
+    font-size:large;
+    border: solid rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: rgb(125, 241, 10);
+    font-family: cursive;
+  }
+  
+  .choice-image {
+    height: 83px;
+  }
